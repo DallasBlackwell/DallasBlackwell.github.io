@@ -1,11 +1,11 @@
 # Site settings
 author: Dallas Blackwell
-title: 
+title: Why did you decide to learn Software Engineering?
 header-img: img/home-bg.png
 email: mdvayne923@gmail.com
 copyright_name: Dallas Blackwell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Simple Answer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DallasBlackwell
